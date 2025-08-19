@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-19T21:56:31 IST" name="Default suite" finished-at="2025-08-19T21:57:00 IST" duration-ms="29103">
+    <groups>
+    </groups>
+    <test started-at="2025-08-19T21:56:31 IST" name="Default test" finished-at="2025-08-19T21:57:00 IST" duration-ms="29103">
+      <class name="Day26.Iframes">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Day26.Iframes@776aec5c]" started-at="2025-08-19T21:56:31 IST" name="setup" finished-at="2025-08-19T21:56:34 IST" duration-ms="3049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testIframes()[pri:0, instance:Day26.Iframes@776aec5c]" started-at="2025-08-19T21:56:34 IST" name="testIframes" finished-at="2025-08-19T21:56:59 IST" duration-ms="25377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIframes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Day26.Iframes@776aec5c]" started-at="2025-08-19T21:56:59 IST" name="tearDown" finished-at="2025-08-19T21:57:00 IST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Day26.Iframes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

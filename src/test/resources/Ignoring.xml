@@ -1,0 +1,9 @@
+<classes>
+<!--<classname="testingCodes.AnnotationTask" />-->
+<class name="testingCodes.DemoNop1">
+		<methods>
+			<exclude name="searchProducts" />                //Method 3
+		</methods>
+	</class>
+</classes>
+
