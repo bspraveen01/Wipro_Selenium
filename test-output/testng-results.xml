@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-19T21:56:31 IST" name="Default suite" finished-at="2025-08-19T21:57:00 IST" duration-ms="29103">
+  <suite started-at="2025-08-21T18:34:21 IST" name="Default suite" finished-at="2025-08-21T18:34:33 IST" duration-ms="11749">
     <groups>
     </groups>
-    <test started-at="2025-08-19T21:56:31 IST" name="Default test" finished-at="2025-08-19T21:57:00 IST" duration-ms="29103">
-      <class name="Day26.Iframes">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Day26.Iframes@776aec5c]" started-at="2025-08-19T21:56:31 IST" name="setup" finished-at="2025-08-19T21:56:34 IST" duration-ms="3049" status="PASS">
+    <test started-at="2025-08-21T18:34:21 IST" name="Default test" finished-at="2025-08-21T18:34:33 IST" duration-ms="11749">
+      <class name="Day27.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Day27.LoginTest@1d296da]" started-at="2025-08-21T18:34:21 IST" name="setUp" finished-at="2025-08-21T18:34:30 IST" duration-ms="8802" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="testIframes()[pri:0, instance:Day26.Iframes@776aec5c]" started-at="2025-08-19T21:56:34 IST" name="testIframes" finished-at="2025-08-19T21:56:59 IST" duration-ms="25377" status="PASS">
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyValidLogin()[pri:0, instance:Day27.LoginTest@1d296da]" started-at="2025-08-21T18:34:30 IST" name="verifyValidLogin" finished-at="2025-08-21T18:34:32 IST" duration-ms="2712" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testIframes -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Day26.Iframes@776aec5c]" started-at="2025-08-19T21:56:59 IST" name="tearDown" finished-at="2025-08-19T21:57:00 IST" duration-ms="625" status="PASS">
+        </test-method> <!-- verifyValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Day27.LoginTest@1d296da]" started-at="2025-08-21T18:34:32 IST" name="tearDown" finished-at="2025-08-21T18:34:33 IST" duration-ms="201" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Day26.Iframes -->
+      </class> <!-- Day27.LoginTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
